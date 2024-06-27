@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T04:18:53.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VPtiAvoYGkjiAgRa1kW_" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T04:22:46.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5zepVSBjDkBDIr0xzi0G" version="24.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="nTnAPemgOAiNaa21PskE-11" value="DRY COCAINE + (MORPHINE, KETAMINE, MESCALINE, AMPHETAMINE, SODA, PERCOCET, OXYCONTIN, BATH SALT)" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillStyle=solid;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="95" y="360" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nTnAPemgOAiNaa21PskE-13" value="COCAINE" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nTnAPemgOAiNaa21PskE-13" value="COCAINE" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nTnAPemgOAiNaa21PskE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nTnAPemgOAiNaa21PskE-19" target="nTnAPemgOAiNaa21PskE-20" edge="1">
@@ -41,7 +41,7 @@
         <mxCell id="nTnAPemgOAiNaa21PskE-19" value="DRY COCAINE + BAKING SODA + WATER + PYREX DISH" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nTnAPemgOAiNaa21PskE-20" value="CRACK" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nTnAPemgOAiNaa21PskE-20" value="CRACK" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7uOZCTsj5XXe5BU1Gum-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7uOZCTsj5XXe5BU1Gum-0" target="R7uOZCTsj5XXe5BU1Gum-2">
@@ -136,7 +136,7 @@
         <mxCell id="R7uOZCTsj5XXe5BU1Gum-29" value="Opium Gun +Hot Water + Calcium Oxide" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R7uOZCTsj5XXe5BU1Gum-31" value="Morphine" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R7uOZCTsj5XXe5BU1Gum-31" value="Morphine" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7uOZCTsj5XXe5BU1Gum-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7uOZCTsj5XXe5BU1Gum-35" target="R7uOZCTsj5XXe5BU1Gum-37">
@@ -172,16 +172,16 @@
         <mxCell id="R7uOZCTsj5XXe5BU1Gum-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7uOZCTsj5XXe5BU1Gum-45" target="R7uOZCTsj5XXe5BU1Gum-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R7uOZCTsj5XXe5BU1Gum-45" value="95% chance for Heroin - 5% chance for White Heroin" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="R7uOZCTsj5XXe5BU1Gum-45" value="40% chance for Heroin - 5% chance for White Heroin&lt;div&gt;55% chance Black Tar Heroin&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="970" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R7uOZCTsj5XXe5BU1Gum-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7uOZCTsj5XXe5BU1Gum-47" target="R7uOZCTsj5XXe5BU1Gum-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R7uOZCTsj5XXe5BU1Gum-47" value="Heroin + Acetone + Hydrochloric Acid" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R7uOZCTsj5XXe5BU1Gum-47" value="Heroin + Acetone + Hydrochloric Acid" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R7uOZCTsj5XXe5BU1Gum-49" value="White Heroin" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R7uOZCTsj5XXe5BU1Gum-49" value="White Heroin" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7uOZCTsj5XXe5BU1Gum-51" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Heroin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="R7uOZCTsj5XXe5BU1Gum-53" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Marijuana&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="610" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R7uOZCTsj5XXe5BU1Gum-54" value="Usable:&lt;br&gt;Morphine&lt;br&gt;Black Tar Heroin&lt;br&gt;Heroin&lt;br&gt;White Heroin" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="730" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
