@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T08:09:41.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8H2RHUWkU57TvCD3WULR" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T08:10:32.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="R41zEb3MbPTD8_vCB6jL" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -193,66 +193,66 @@
         <mxCell id="R7uOZCTsj5XXe5BU1Gum-54" value="Usable:&lt;br&gt;Morphine&lt;br&gt;Black Tar Heroin&lt;br&gt;Heroin&lt;br&gt;White Heroin" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="615" y="730" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-0" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Meth&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-0" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Meth&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="940" y="40" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XkvqwsOZ20v_aDG4FpEC-1" target="XkvqwsOZ20v_aDG4FpEC-15">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XkvqwsOZ20v_aDG4FpEC-1" target="XkvqwsOZ20v_aDG4FpEC-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-1" value="Mix:&amp;nbsp; red phosphorous and iodine together for base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-1" value="Mix:&amp;nbsp; red phosphorous and iodine together for base" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1005" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-3" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-3" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1160" y="150" width="140" height="330" as="geometry">
             <mxRectangle x="1160" y="150" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-4" value="Sudafed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-4" value="Sudafed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-5" value="Ephedrine" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-5" value="Ephedrine" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-6" value="&lt;div&gt;anhydrous ammonia (fertilizer)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-6" value="&lt;div&gt;anhydrous ammonia (fertilizer)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-7" value="&lt;div&gt;Lithium (from battery)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-7" value="&lt;div&gt;Lithium (from battery)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-8" value="&lt;div&gt;Red Phosphorous (matches/flares)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-8" value="&lt;div&gt;Red Phosphorous (matches/flares)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-9" value="&lt;div&gt;Iodine (Vet products)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-9" value="&lt;div&gt;Iodine (Vet products)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-10" value="&lt;div&gt;Gas&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-10" value="&lt;div&gt;Gas&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-11" value="&lt;div&gt;Sodium Hydroxied (Lye)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-11" value="&lt;div&gt;Sodium Hydroxied (Lye)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-12" value="&lt;div&gt;Ether&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-12" value="&lt;div&gt;Ether&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="270" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-13" value="&lt;div&gt;Acetone&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XkvqwsOZ20v_aDG4FpEC-3">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-13" value="&lt;div&gt;Acetone&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XkvqwsOZ20v_aDG4FpEC-3" vertex="1">
           <mxGeometry y="300" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XkvqwsOZ20v_aDG4FpEC-15" target="XkvqwsOZ20v_aDG4FpEC-17">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XkvqwsOZ20v_aDG4FpEC-15" target="XkvqwsOZ20v_aDG4FpEC-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-15" value="Cook:&amp;nbsp; Base + sudafed, ephedrine, ether, gas, lye, lithium, fertilizer together = Amphetamine" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-15" value="Cook:&amp;nbsp; Base + sudafed, ephedrine, ether, gas, lye, lithium, fertilizer together = Amphetamine" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1005" y="240" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XkvqwsOZ20v_aDG4FpEC-17" target="XkvqwsOZ20v_aDG4FpEC-19">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XkvqwsOZ20v_aDG4FpEC-17" target="XkvqwsOZ20v_aDG4FpEC-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-17" value="Heat up water in the amphetamine and add Acetone to create crystals" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-17" value="Heat up water in the amphetamine and add Acetone to create crystals" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1005" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-19" value="Methamphetamine&lt;div&gt;&quot;Crystal Meth&quot;&lt;/div&gt;&lt;div&gt;&quot;Meth&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-19" value="Methamphetamine&lt;div&gt;&quot;Crystal Meth&quot;&lt;/div&gt;&lt;div&gt;&quot;Meth&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1005" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XkvqwsOZ20v_aDG4FpEC-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Variable:&lt;/h1&gt;&lt;p&gt;Because of the volatile nature of these chemicals being put in Meth, the labs are susceptible to exploding if not properly done correctly, so there should be a % to the lab exploding&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XkvqwsOZ20v_aDG4FpEC-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Variable:&lt;/h1&gt;&lt;p&gt;Because of the volatile nature of these chemicals being put in Meth, the labs are susceptible to exploding if not properly done correctly, so there should be a % to the lab exploding&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1160" y="500" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
